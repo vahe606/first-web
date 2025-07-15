@@ -1,0 +1,27 @@
+{
+ "posts": [
+      {
+        "title": "Introduction to Blogging",
+        "author": "John Doe",
+        "date": "2023-01-10",
+        "content": "Welcome to my blog! This is the first post...",
+        "tags": ["Blogging", "Introduction"]
+      },
+      {
+        "title": "The Future of Artificial Intelligence",
+        "author": "Jane Smith",
+        "date": "2023-02-20",
+        "content": "In this post, we delve into the exciting future of AI...",
+        "tags": ["Artificial Intelligence", "Technology"]
+      },
+      {
+        "title": "Cooking Adventures: A Culinary Journey",
+        "author": "Alex Johnson",
+        "date": "2023-03-15",
+        "content": "Join me as we explore the world of flavors and recipes...",
+        "tags": ["Cooking", "Food"]
+      }
+
+    ]
+
+} 
